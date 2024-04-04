@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Webboard GG",
+    "imageSrc": "projects/web GG.png",
+    "description": "This is a project made to learn the latest languages.",
+    "skills": ["HTML", "PHP", "MySql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/aunaun30/Webboard_ECT_Araya.git"
+  },
+  {
+    "title": "Portfolio GG",
+    "imageSrc": "projects/portgg.png",
+    "description": "This is a project made to learn the latest languages.",
+    "skills": ["React", "JavaScript", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

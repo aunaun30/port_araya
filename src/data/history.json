@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Chanthaburi Technical ",
+    "organisation": "Collage",
+    "startDate": "2020",
+    "endDate": "2022",
+    "experiences": ["Computer Technology and Network System"],
+    "imageSrc": "history/tech1.png"
+  },
+  {
+    "role": "King Mongkut’s University  ",
+    "organisation": "of Technology North Bangkok",
+    "startDate": "2022",
+    "endDate": "Present",
+    "experiences": ["Electronics Technology (Computer)"],
+    "imageSrc": "history/kmutnb.png"
+  }
+]
